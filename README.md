@@ -6,8 +6,13 @@ About Me 🚀
    working on Java, Spring, Spring boot , microservices and Spring AI 
 
 ##🛠️ Technologies & Tools
+
 Languages: Java 
+
 Backend  : Spring, Spring Boot, Microservices
+
 Databases: MySQL, Oracle
+
 Tools    : Git, GitHub, Docker
+
 
